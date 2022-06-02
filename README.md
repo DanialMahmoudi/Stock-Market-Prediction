@@ -7,3 +7,4 @@ The different models which have been used in this project are:
   - Decision Tree Regression
   - Random Forest Regression
 
+The datasets used in this project are belonged to Google Stock Market & USD-BTC.
